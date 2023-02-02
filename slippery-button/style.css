@@ -5,8 +5,8 @@
 }
 
 .hitbox {
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 100px;
     background: transparent;
     border: none;
     position: absolute;
@@ -21,7 +21,7 @@ button {
     width: 10px;
     background: green;
     border: 2px solid green;
-    transform: translate(0px, 15px);
+    transform: translate(0px, 30px);
     border-radius: 100%;
 }
 button:hover{
