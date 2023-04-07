@@ -21,7 +21,7 @@
     width: 50px;
     background: green;
     border: 2px solid green;
-    transform: translate(0px, 15px);
+    transform: translate(0px, 30px);
     border-radius: 100%;
 }
 .button:hover{
